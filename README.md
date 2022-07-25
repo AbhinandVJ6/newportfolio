@@ -13,7 +13,7 @@ This portfolio is a project using HTML, CSS and bootstrap. This Portfolio is to 
 
 ## Installation
 
-No need to install any software, just open up index.html
+No need to install any software, just open up abh.html
 
 ## How to use ?
 

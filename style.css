@@ -2,6 +2,7 @@
   margin: 0;
   padding: 0;
   background-color: D4D4D4;
+  
 }
 .navigate {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
@@ -49,7 +50,7 @@
   border: 5px solid #00abae;
 }
 .intro .introline h1 {
-  padding: 2% 0 2% 0;
+  padding: 2% 0 2% 0 auto;
   font-size: 2vw;
 }
 .intro .buttons {
@@ -57,20 +58,23 @@
   gap: 2%;
 }
 .introline img {
+  
   float: right;
+  border: 1vw solid #00abae ;
 }
 .introline img {
-  border-radius: 80%;
-  width: 220px;
-  margin-bottom: 10px;
-  float: center;
+  border-radius: 243vw;
+  width:auto;
+  margin-bottom: 1% ;
+  
 }
 .intro .buttons button {
   background-color: #00abae;
+  
   padding: 2%;
   color: white;
   border: none;
-  border-radius: 4px;
+  border-radius: 9px;
   font-size: 0.8vw;
 }
 .intro .buttons button a {

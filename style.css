@@ -168,9 +168,13 @@ h2 {
   border: none;
   display: flex;
   justify-content: center;
-  gap: 1%;
+  color: black;
   padding-top: 1%;
   border-top: 1px solid black;
+}
+.logos a{
+  color: black;
+  width: 2vw;
 }
 #copyright {
   font-size: 1vw;
@@ -203,8 +207,11 @@ h2 {
 .project-video {
   background-color: black;
   width: 400px;
-  height: 500px;
+  height: 320px;
 }
 .col-md-4 {
   width: 400px !important;
+}
+p#copyright {
+  color: #a29e9e;
 }
